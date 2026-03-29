@@ -1,31 +1,28 @@
 <div align="center">
 
-<!-- ══════════════════════════ HEADER BANNER ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=azzamdev17&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=zzamcodes17&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- ══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
-<a href="https://github.com/azzamdev17">
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/zzamcodes17">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Azzam+%F0%9F%91%8B;Full+Stack+Web+Developer;DevOps+%26+Docker+Enthusiast;Pterodactyl+Panel+Expert;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- ══════════════════════════ BADGES ══════════════════════════ -->
-[![Profile Views](https://komarev.com/ghpvc/?username=azzamdev17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/azzamdev17)
-[![GitHub followers](https://img.shields.io/github/followers/azzamdev17?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/azzamdev17?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/azzamdev17?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/azzamdev17)
+[![Profile Views](https://komarev.com/ghpvc/?username=zzamcodes17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zzamcodes17)
+[![GitHub followers](https://img.shields.io/github/followers/zzamcodes17?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zzamcodes17?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/zzamcodes17?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/zzamcodes17)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
-
 ## 🧑‍💻 About Me
 
 ```yaml
 name       : Azzam
-username   : azzamdev17
+username   : zzamcodes17
 location   : Indonesia 🇮🇩
 occupation : Full Stack Developer & DevOps Engineer
 
@@ -44,8 +41,6 @@ fun_fact    : I automate everything I do more than twice ⚡
 ```
 
 ---
-
-<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
 
 ## 🛠️ Tech Stack & Tools
 
@@ -97,83 +92,61 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azzamdev17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zzamcodes17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamdev17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzamcodes17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=azzamdev17&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zzamcodes17&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="600"/>
 
 </div>
 
 ---
-
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=azzamdev17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zzamcodes17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
 ---
-
-<!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azzamdev17&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzamcodes17&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
-
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/azzamdev17/azzamdev17/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azzamdev17/azzamdev17/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/azzamdev17/azzamdev17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/zzamcodes17/zzamcodes17/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzamcodes17/zzamcodes17/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/zzamcodes17/zzamcodes17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![docker-minecraft](https://github-readme-stats.vercel.app/api/pin/?username=zzamcodes17&repo=docker-minecraft&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF)](https://github.com/zzamcodes17/docker-minecraft)
-
-</div>
-
----
-
-<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azzamdev17)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzamcodes17)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/azzamdev17)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azzamganteng921@gmail.com)
 
@@ -181,15 +154,13 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"First, solve the problem. Then, write the code."*
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
 ![Indonesia](https://img.shields.io/badge/From-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-red?style=flat-square)
 
-</div>
+</div>"# zzamcodes17-" 
