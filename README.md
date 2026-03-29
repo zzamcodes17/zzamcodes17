@@ -96,13 +96,13 @@ fun_fact    : I automate everything I do more than twice
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzamcodes17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zzamcodes17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide=contribs" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzamcodes17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zzamcodes17&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="600"/>
+<img src="https://streak-stats.demolab.com?user=zzamcodes17&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="600"/>
 
 </div>
 
@@ -112,7 +112,7 @@ fun_fact    : I automate everything I do more than twice
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zzamcodes17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zzamcodes17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 
 </div>
 
