@@ -96,9 +96,13 @@ fun_fact    : I automate everything I do more than twice
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzamcodes17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&hide=contribs" height="180" alt="GitHub Stats"/>
+<a href="https://github.com/zzamcodes17">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzamcodes17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzamcodes17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+<a href="https://github.com/zzamcodes17">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzamcodes17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
@@ -106,15 +110,6 @@ fun_fact    : I automate everything I do more than twice
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zzamcodes17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-
-</div>
 
 ---
 
