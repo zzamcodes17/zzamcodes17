@@ -10,10 +10,6 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/zzamcodes17" width="120" style="border-radius:50%"/>
-
-<br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=zzamcodes17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zzamcodes17)
 [![GitHub followers](https://img.shields.io/github/followers/zzamcodes17?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zzamcodes17?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/zzamcodes17?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/zzamcodes17)
@@ -22,12 +18,12 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 ```yaml
 name       : Azzam
 username   : zzamcodes17
-location   : Indonesia ðŸ‡®ðŸ‡©
+location   : Indonesia
 occupation : Full Stack Developer & DevOps Engineer
 
 focus:
@@ -41,12 +37,12 @@ currently_learning:
   - CI/CD Pipelines
   - Cloud Architecture (GCP / AWS)
 
-fun_fact    : I automate everything I do more than twice âš¡
+fun_fact    : I automate everything I do more than twice
 ```
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -96,7 +92,7 @@ fun_fact    : I automate everything I do more than twice âš¡
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -112,7 +108,7 @@ fun_fact    : I automate everything I do more than twice âš¡
 
 ---
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -122,7 +118,7 @@ fun_fact    : I automate everything I do more than twice âš¡
 
 ---
 
-## ðŸ“ˆ Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -132,7 +128,7 @@ fun_fact    : I automate everything I do more than twice âš¡
 
 ---
 
-## ðŸ Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -146,7 +142,7 @@ fun_fact    : I automate everything I do more than twice âš¡
 
 ---
 
-## ðŸŒ Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -165,6 +161,6 @@ fun_fact    : I automate everything I do more than twice âš¡
 *"First, solve the problem. Then, write the code."*
 
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
-![Indonesia](https://img.shields.io/badge/From-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-red?style=flat-square)
+![Indonesia](https://img.shields.io/badge/From-Indonesia-red?style=flat-square)
 
 </div>
