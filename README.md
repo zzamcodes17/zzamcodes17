@@ -10,6 +10,10 @@
 
 <br/>
 
+<img src="https://avatars.githubusercontent.com/zzamcodes17" width="120" style="border-radius:50%"/>
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=zzamcodes17&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/zzamcodes17)
 [![GitHub followers](https://img.shields.io/github/followers/zzamcodes17?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/zzamcodes17?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/zzamcodes17?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/zzamcodes17)
@@ -18,12 +22,12 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ðŸ§‘â€ðŸ’» About Me
 
 ```yaml
 name       : Azzam
 username   : zzamcodes17
-location   : Indonesia 🇮🇩
+location   : Indonesia ðŸ‡®ðŸ‡©
 occupation : Full Stack Developer & DevOps Engineer
 
 focus:
@@ -37,12 +41,12 @@ currently_learning:
   - CI/CD Pipelines
   - Cloud Architecture (GCP / AWS)
 
-fun_fact    : I automate everything I do more than twice ⚡
+fun_fact    : I automate everything I do more than twice âš¡
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ðŸ› ï¸ Tech Stack & Tools
 
 <div align="center">
 
@@ -92,7 +96,7 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-## 📊 GitHub Stats
+## ðŸ“Š GitHub Stats
 
 <div align="center">
 
@@ -108,7 +112,7 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-## 🏆 GitHub Trophies
+## ðŸ† GitHub Trophies
 
 <div align="center">
 
@@ -118,7 +122,7 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-## 📈 Contribution Activity
+## ðŸ“ˆ Contribution Activity
 
 <div align="center">
 
@@ -128,7 +132,7 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-## 🐍 Contribution Snake
+## ðŸ Contribution Snake
 
 <div align="center">
 
@@ -142,7 +146,7 @@ fun_fact    : I automate everything I do more than twice ⚡
 
 ---
 
-## 🌐 Connect With Me
+## ðŸŒ Connect With Me
 
 <div align="center">
 
@@ -163,4 +167,4 @@ fun_fact    : I automate everything I do more than twice ⚡
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
 ![Indonesia](https://img.shields.io/badge/From-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-red?style=flat-square)
 
-</div>"# zzamcodes17-" 
+</div>
